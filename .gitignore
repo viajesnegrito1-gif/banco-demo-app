@@ -39,6 +39,12 @@ build/Release
 
 # Dependency directories
 node_modules/
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+.tmp-expo-seed/
+.tmp-expo52-seed/
 jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)
